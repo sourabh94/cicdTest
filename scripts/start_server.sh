@@ -1,2 +1,2 @@
 echo 'stop application'
-service httpd stop
+service httpd start
